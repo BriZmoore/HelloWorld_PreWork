@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Uploading Kapture 2025-09-08 at 16.13.50.gif…]()
+![Kapture 2025-09-08 at 16 13 50](https://github.com/user-attachments/assets/d8a450b4-0099-4d63-b61f-1d36e4c41b5f)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
